@@ -14,5 +14,6 @@ processes the tweets using Apache Spark Streaming to identify hashtags.
 ▪ save this data to a Hive table
 
 3. Research Project: 
-Spark ML project.
+Predict Pricing of Boston Housing Using Boston Housing Dataset in Google Collab.
+
 
